@@ -2,5 +2,4 @@
 ! Updated: 2024-10-16T14:13:00Z
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/gujgreenhouse/url-filter
-toadle.me
-tim-adler.de
+chat.deepseek.com
